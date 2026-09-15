@@ -1,0 +1,8 @@
+Ferramenta: image_gen integrada.
+Prompt base: Photorealistic illustrative photograph for a Brazilian motorcycle workshop website service card. Landscape 3:2 composition. [SCENE] Natural workshop lighting, authentic tools, professional photographic detail, subject fills frame. No text, no logos, no borders, no collage.
+servico-1.png: Closeup of motorcycle oil change, mechanic pouring engine oil through funnel into engine.
+servico-2.png: Motorcycle tire and wheel being serviced on a workshop lift, hands checking tire.
+servico-3.png: Mechanic inspecting red motorcycle handlebars and engine for routine service.
+servico-4.png: Detailed motorcycle front disc brake and mechanic inspecting brake caliper.
+servico-5.png: Mechanic using socket wrench on motorcycle engine in a repair workshop.
+servico-6.png: Mechanic testing motorcycle battery with digital multimeter and probes.
