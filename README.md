@@ -31,3 +31,12 @@ Importe este repositório na Vercel. O arquivo `vercel.json` configura o framewo
 - Fontes Barlow e Barlow Condensed via Google Fonts, com alternativas locais do sistema.
 
 O site está preparado para publicação futura; não foi publicado automaticamente.
+
+## SEO local
+
+- Domínio canônico: `https://www.lucianomotoshdo.com.br/`.
+- `public/robots.txt` permite rastreamento e aponta para o sitemap.
+- `public/sitemap.xml` contém a página inicial, única página do site; as âncoras de seções não são páginas separadas.
+- `index.html` contém título, descrição, canonical, Open Graph e JSON-LD da oficina. Os textos de `src/main.jsx` relacionam Luciano Motos e Tourinho Motos aos serviços e ao atendimento em Herval d'Oeste e Joaçaba, preservando o endereço em Herval d'Oeste.
+- Ao trocar o domínio, atualize `index.html`, `public/robots.txt` e `public/sitemap.xml`.
+- Após publicar, confira `/robots.txt` e `/sitemap.xml` no domínio público e envie o sitemap pelo Google Search Console da propriedade verificada. Acompanhe a indexação pela inspeção de URL. Esses ajustes não garantem posições nos resultados.
